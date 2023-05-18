@@ -1,0 +1,1 @@
+Program çıktısında ekrana satıcıların toplam satışlarını yazdırırken karışıklık olmaması için aralarına "*" eklenmiştir.
