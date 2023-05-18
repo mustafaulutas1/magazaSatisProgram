@@ -1,1 +1,2 @@
-Program çıktısında ekrana satıcıların toplam satışlarını yazdırırken karışıklık olmaması için aralarına "*" eklenmiştir.
+*1. güncelleme: Program çıktısında ekrana satıcıların toplam satışlarını yazdırırken karışıklık olmaması için aralarına "*" eklenmiştir.
+*2. güncelleme: Programdan çıkış için "enter" tuşu kullanımı zorlaştırdığı için çıkış için artık "c" tuşu kullanılmaktadır.
