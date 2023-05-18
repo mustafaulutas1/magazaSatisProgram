@@ -1,0 +1,1 @@
+Bu ödevimde kullanıcı sırayla mağaza adı, satıcı adı, satış cinsi, satış tutarı verilerini girecektir. Kullanıcı programdan çıkış yapana kadar bu böyle devam edecektir. Kullanıcı programdan çıktığı zaman ekrana her bir mağaza için yapılan toplam satış tutarı ve her bir satıcının yaptığı toplam satış tutarı yazdırılacaktır.
